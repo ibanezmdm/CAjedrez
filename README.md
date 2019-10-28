@@ -1,2 +1,2 @@
 # CAjedrez
-Proyecto de aprendisaje: Se creara un tablero de Ajedrez en C++
+Proyecto de aprendizaje: Se creara un tablero de Ajedrez en C++
